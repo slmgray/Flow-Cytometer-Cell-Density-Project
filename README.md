@@ -26,5 +26,13 @@ once R stats are done also put markdown in
 - Emma will get all samples ready for Sierra to count on haemocytometer  
 - @Sierra book times in the lab for these counts - are you added to lab calendar?
 
+2021-01-27 Meeting Notes:
+1-1.5 mL aliquotes for FlowCy
 
-type something at the bottom
+While waiting for Hollies response Emma will give more species/samples for hemocyotmeter counts
+
+Emma tell Sierra when samples are set aside
+
+minimum count for each species is 3 samples
+
+Sierra email Maggie for access to TeamUP
