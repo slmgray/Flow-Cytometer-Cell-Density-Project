@@ -18,7 +18,7 @@ once R stats are done also put markdown in
 2021-01-26 meeting agenda:  
 - Booked cellometer time @Sierra?  
 - Convert flow cy lab plan and experimental plan PDFs to .md @Sierra  
-- In haemocytometer cell counts: 1.) move notes column from first column to last and clarify which samples were diluted vs. not diluted 2.) Add # of squares counted column 3.) fill blank cells with NA 4.) calculate mean, standard deviation, and CV for each coral. @Sierra  
+- In haemocytometer cell counts: 1.) move notes column from first column to last and clarify which samples were diluted vs. not diluted 2.) Add # of squares counted column (DONE 20210129 SG) 3.) fill blank cells with NA (DONE 20210129 SG) 4.) calculate mean, standard deviation, and CV for each coral. @Sierra  
 - Which samples do we still need haemocytometer counts for?  
 - Flowjo update from @Hannah?
 
