@@ -36,3 +36,7 @@ Emma tell Sierra when samples are set aside
 minimum count for each species is 3 samples
 
 Sierra email Maggie for access to TeamUP
+
+2021-01-29: Emma set aside samples for Sierra to count on the haemocytometer. See photos below of where they are. @Sierra please see the Sample-Metadata csv sheet I added and fill in the Mcap information we have and add a 'yes' to the samples when you have counted them on each method. @Hannah can you add a 'yes' to the samples that you counted on the flow cy? Thank you!
+
+![samples-box]()
