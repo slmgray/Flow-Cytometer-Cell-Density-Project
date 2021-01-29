@@ -45,4 +45,4 @@ Sierra email Maggie for access to TeamUP
 
 The samples from Mo'orea from the E5 project are in the below photographed box labeled Strand. **We will start with cellometer counts for these first.** Wait to hear back from Emma on who will be doing the haemocytometer counts.  
 
-![E5-box]()
+![E5-box](https://github.com/slmgray/Flow-Cytometer-Cell-Density-Project/blob/main/Photos/IMG_3605.jpg?raw=true)
