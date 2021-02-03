@@ -47,4 +47,6 @@ The samples from Mo'orea from the E5 project are in the below photographed box l
 
 ![E5-box](https://github.com/slmgray/Flow-Cytometer-Cell-Density-Project/blob/main/Photos/IMG_3605.jpg?raw=true)  
 
-2021-01-31: Emma emailed Hannah an alternative software (BD Accuri C6+) to analyze events/ul from the flow cy file. Erin Roberts uses flow cytometry to get cell counts using a flow cytometer from the NOAA in Connecticut. This only works on Windows. There are several windows computers in lab. 
+2021-01-31: Emma emailed Hannah an alternative software (BD Accuri C6+) to analyze events/ul from the flow cy file. Erin Roberts uses flow cytometry to get cell counts using a flow cytometer from the NOAA in Connecticut. This only works on Windows. There are several windows computers in lab.
+
+2021-02-03: Sierra took hemocyotmeter counts for two P.acuta samples and will finish the other three on Friday. Sierra emailed Hollie about cellometer availability next week and will know soon if I will go in next week. 
