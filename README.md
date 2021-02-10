@@ -51,4 +51,12 @@ The samples from Mo'orea from the E5 project are in the below photographed box l
 
 2021-02-03: Sierra took haemocytometer counts for two P.acuta samples and will finish the other three on Friday. Sierra emailed Hollie about cellometer availability next week and will know soon if I will go in next week.
 
-2021-02-05: Sierra finished hemocytometer counts on the five P. acuta samples nd updated the csv file of hemocytometer counts
+2021-02-05: Sierra finished hemocytometer counts on the five P. acuta samples and updated the csv file of hemocytometer counts.
+
+2021-02-10: meeting notes  
+- @Sierra will count the E5 samples on the haemocytometer.   
+- @Hannah will check out the new flowcy software from Erin Roberts and email C. Voolstra for their protocol for the same flow cytometer.  
+- Sierra got quote from Bill -- @Sierra can you make a cost breakdown markdown document on our repo? With all of the costs for each method.  
+- @Emma will get haemocy counts from Kev  
+- Waiting on Kim to book cellometer time.  
+- @Sierra can you add the Porites sample information to the metadata.xlsx from the samples that Kev put in that box?    
