@@ -60,3 +60,9 @@ The samples from Mo'orea from the E5 project are in the below photographed box l
 - @Emma will get haemocy counts from Kev  
 - Waiting on Kim to book cellometer time.  
 - @Sierra can you add the Porites sample information to the metadata.xlsx from the samples that Kev put in that box?    
+
+2021-02-17: Sierra Cellometer update
+- Went to cellometer training on Monday 02-15 and will attach pictures of samples I ran. A big issue is the correct focusing so that you can see both the brightfield and fluorescence clearly. It looked like there were two different kinds of fluorescence F1 and F2, so next time I might try and use F2. In regards to the different fluorescence, another issue that you will see in the images was that in the brightfield (similar to what you see on a hemocytometer) I could see there cells clearly, but then when I switched over to the fluro only about half of them fluroesced (not sure how to spell it). So I believe that is another hiccup that we'll need to sort out. I am thinking about getting in touch with Kim about going in again either Friday or Monday, probably more like Monday so we could chat about what we should do, and maybe if one of you wanted to come in with me to see it to?
+
+- I have not rang the E5 samples yet on the hemocytometer, I can do that in the next week or so, and @Emma are the Porites samples from Kev the samples in formalin, I can find them in lab when I go in to count the E5 samples. 
+- I started a cost breakdown md but am not sure about some numbers if @Hannah could look into the costs of flow cy costs that would be great, I looked in the Flow Cy Lab Plan and found a little bit of info.
