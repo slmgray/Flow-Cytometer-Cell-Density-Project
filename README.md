@@ -71,11 +71,12 @@ The samples from Mo'orea from the E5 project are in the below photographed box l
 - Kevin's samples have already been counted on the haemocytometer, so these will only need the cellometer counts. He will put those aside this week. They will be in the -20C freezer with the other samples we have.      
 - Yes, counts the E5 samples in formalin this week.  
 - Yes, go back in and try any options you can and get a reading for all of them. Can you put the cells per mL value from the cellometer counts on the spreadsheet? You can start a trial 1, trial 2 columns or F1 fl, F2 fl columns. Can you go in this week? I won't be able to come in with you this week. Another option is to get in touch with the cellometer people that gave you the protocol and ask for some tips. Their webpage might also have suggestions on how to do this.  
-- Can you spell check your notes above?  
 
 Thank you! You're doing great. Try those other options with the cellometer and have a think about what you think is best to do next.
 
 2021-02-22 S. Gray response to E. Strand
-I will try and get back into the CORE this friday, I'll email Kim about her availability. I'll also email Bill (Nexcelom rep) he may have some ideas, good suggeestion!
+I will try and get back into the CORE this friday, I'll email Kim about her availability. I'll also email Bill (Nexcelom rep) he may have some ideas, good suggestion!
 
 I will get the cellometer counts into the spreadsheet, I was thinking of making the Hemocytometer Cell Counts sheet into one mass csv file separating the different cell count methods, good idea?
+
+2021-02-22 @Sierra -- yes good idea, go for it. The Nexcelom rep that came awhile back was great with helping us so I bet he'd have some ideas for you. 
