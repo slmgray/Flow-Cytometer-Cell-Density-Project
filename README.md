@@ -81,3 +81,11 @@ I will get the cellometer counts into the spreadsheet, I was thinking of making 
 - We will try F2 (red) on Friday 10 am EST. Emma will facetime in so we can do it together.  
 - Answer these Q's: 1.) How do these counts compare to haemocytometer? 2.) How much variation is there in the cellometer counts? How many do we have to do per coral? 3.) Do we need to dilute the counts?  
 - @Sierra can you start a detailed working protocol for the cellometer? Outlining all software options and settings.  
+
+2021-02-26 Sierra Cellometer Update:
+
+Came in and called Bill From Nexcelom to upload specific dinoflagellate assay he sent Kim (CORE). We tried a few different setting options to have the cells fluroesce. We started by changing the micron range (originally was 8-40 and thought this was the initial issue) to 3-40 microns, and that did not work. We then tried changing the "Manual Threshold Fluorescent" from 15 to 10 to 5. As we tried each MTF we would look at the images to determine whether they were being counted by the cellometer, they were not. We tried multiple Exposure msec ranging from 1000-5000, I learned that it is not necessary for the researcher to be able to visually see each cell in order for it to be at the right range. Bill said that the preferred range for these kinds of cells is between 2000-3000 msec (2-3 seconds)
+
+The ending of this session with Bill (Nexcelom) resulted in him thinking the machine that is in CORE is too old of fluro channel to read these kinds of cells. He said that the "Flurophore Exposure" setting we have for this assay type "Choose 660 Filter  202" is too yellow of a channel and it needs to be redder. Bill asked Kim if she would be able to get in touch with a lab (I believe it is the Simmone lab?) in the pharmacy building to ask about their cellometer machine, as it is a newer model then the one they have in CORE. Hopefully we might be able to use theirs!
+
+Kim just told me that the PI in the lab with the newer model just sent over teh specs of their machine to Bill, and I will be kept in the loop as to what will happen next. I am heading over to the BIO building to grab a flash drive to then upload the pictures to Bill, and I will put them in our Photos folder as well!
