@@ -26,16 +26,12 @@ once R stats are done also put markdown in
 - Emma will get all samples ready for Sierra to count on haemocytometer  
 - @Sierra book times in the lab for these counts - are you added to lab calendar?
 
-2021-01-27 Meeting Notes:
-1-1.5 mL aliquotes for FlowCy
-
-While waiting for Hollies response Emma will give more species/samples for hemocyotmeter counts
-
-Emma tell Sierra when samples are set aside
-
-minimum count for each species is 3 samples
-
-Sierra email Maggie for access to TeamUP
+2021-01-27 Meeting Notes:  
+- 1-1.5 mL aliquotes for FlowCy  
+- While waiting for Hollies response Emma will give more species/samples for hemocyotmeter counts  
+- Emma tell Sierra when samples are set aside  
+- Minimum count for each species is 3 samples  
+- Sierra email Maggie for access to TeamUP
 
 2021-01-29: Emma set aside samples for Sierra to count on the haemocytometer. See photos below of where they are. @Sierra please see the Sample-Metadata csv sheet I added and fill in the Mcap information we have and add a 'yes' to the samples when you have counted them on each method. @Hannah can you add a 'yes' to the samples that you counted on the flow cy? Thank you!
 
@@ -79,4 +75,9 @@ I will try and get back into the CORE this friday, I'll email Kim about her avai
 
 I will get the cellometer counts into the spreadsheet, I was thinking of making the Hemocytometer Cell Counts sheet into one mass csv file separating the different cell count methods, good idea?
 
-2021-02-22 @Sierra -- yes good idea, go for it. The Nexcelom rep that came awhile back was great with helping us so I bet he'd have some ideas for you. 
+2021-02-22 @Sierra -- yes good idea, go for it. The Nexcelom rep that came awhile back was great with helping us so I bet he'd have some ideas for you.
+
+2021-02-24 meeting notes:  
+- We will try F2 (red) on Friday 10 am EST. Emma will facetime in so we can do it together.  
+- Answer these Q's: 1.) How do these counts compare to haemocytometer? 2.) How much variation is there in the cellometer counts? How many do we have to do per coral? 3.) Do we need to dilute the counts?  
+- @Sierra can you start a detailed working protocol for the cellometer? Outlining all software options and settings.  
