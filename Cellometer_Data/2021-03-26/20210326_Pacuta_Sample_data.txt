@@ -1,0 +1,92 @@
+date time	sample name	count type	cell count	dilution factor	concentration	result type	result	mean diameter	assay type	cell type
+
+03/26/2021 12:11:25	P.acuta_1048_20210326_1	F1	320	1.0	4.51e+005	 	 	  9.0	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:12:22	P.acuta_1048_20210326_2	F1	334	1.0	4.71e+005	 	 	  9.2	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:12:30	P.acuta_1048_20210326_2	F1	334	1.0	4.71e+005	 	 	  9.2	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:12:46	P.acuta_1048_20210326_2	F1	334	1.0	4.71e+005	 	 	  9.2	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:12:59	P.acuta_1048_20210326_2	F1	334	1.0	4.71e+005	 	 	  9.2	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:15:06	P.acuta_1048_20210326_2	F1	334	1.0	4.71e+005	 	 	  9.2	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:17:31	P.acuta_1048_20210326_1_redo	F1	338	1.0	4.76e+005	 	 	  8.9	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:17:39	P.acuta_1048_20210326_1_redo	F1	338	1.0	4.76e+005	 	 	  8.9	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:17:50	P.acuta_1048_20210326_1_redo	F1	338	1.0	4.76e+005	 	 	  8.9	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:23:48	P.acuta_2384_20210326_1	F1	100	1.0	1.42e+005	 	 	 10.7	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:24:01	P.acuta_2384_20210326_1	F1	100	1.0	1.42e+005	 	 	 10.7	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:24:14	P.acuta_2384_20210326_1	F1	100	1.0	1.42e+005	 	 	 10.7	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:24:24	P.acuta_2384_20210326_1	F1	100	1.0	1.42e+005	 	 	 10.7	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:26:52	P.acuta_2384_20210326_2	F1	170	1.0	2.40e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:27:01	P.acuta_2384_20210326_2	F1	170	1.0	2.40e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:27:11	P.acuta_2384_20210326_2	F1	170	1.0	2.40e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:27:19	P.acuta_2384_20210326_2	F1	170	1.0	2.40e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:31:55	P.acuta_2393_20210326_1	F1	284	1.0	4.01e+005	 	 	 10.0	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:32:00	P.acuta_2393_20210326_1	F1	284	1.0	4.01e+005	 	 	 10.0	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:32:07	P.acuta_2393_20210326_1	F1	284	1.0	4.01e+005	 	 	 10.0	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:32:15	P.acuta_2393_20210326_1	F1	284	1.0	4.01e+005	 	 	 10.0	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:33:57	P.acuta_2393_20210326_2	F1	210	1.0	2.97e+005	 	 	  9.8	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:34:04	P.acuta_2393_20210326_2	F1	210	1.0	2.97e+005	 	 	  9.8	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:34:13	P.acuta_2393_20210326_2	F1	210	1.0	2.97e+005	 	 	  9.8	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:34:21	P.acuta_2393_20210326_2	F1	210	1.0	2.97e+005	 	 	  9.8	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:38:14	P.acuta_1710_20210326_1	F1	516	1.0	7.28e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:38:18	P.acuta_1710_20210326_1	F1	516	1.0	7.28e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:38:28	P.acuta_1710_20210326_1	F1	516	1.0	7.28e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:38:57	P.acuta_1710_20210326_1	F1	516	1.0	7.28e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:41:09	P.acuta_1710_20210326_2	F1	495	1.0	6.99e+005	 	 	  9.8	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:42:02	P.acuta_1710_20210326_2	F1	495	1.0	6.99e+005	 	 	  9.8	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:42:15	P.acuta_1710_20210326_2	F1	495	1.0	6.99e+005	 	 	  9.8	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:46:30	P.acuta_1710_20210326_2	F1	495	1.0	6.99e+005	 	 	  9.8	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:54:50	P.acuta_1116_20210326_1	F1	310	1.0	4.39e+005	 	 	 10.5	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:54:55	P.acuta_1116_20210326_1	F1	310	1.0	4.39e+005	 	 	 10.5	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:56:07	P.acuta_1116_20210326_2	F1	294	1.0	4.17e+005	 	 	 11.2	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 12:56:11	P.acuta_1116_20210326_2	F1	294	1.0	4.17e+005	 	 	 11.2	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 13:01:33	P.acuta_1116_20210326_3	F1	366	1.0	5.18e+005	 	 	 10.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 13:01:39	P.acuta_1116_20210326_3	F1	366	1.0	5.18e+005	 	 	 10.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 13:03:21	P.acuta_1710_20210326_3	F1	539	1.0	7.61e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 13:03:40	P.acuta_1710_20210326_3	F1	539	1.0	7.61e+005	 	 	  9.6	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 13:07:43	P.acuta_1048_20210326_3	F1	384	1.0	5.41e+005	 	 	  8.9	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 13:07:47	P.acuta_1048_20210326_3	F1	384	1.0	5.41e+005	 	 	  8.9	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 13:10:10	P.acuta_2384_20210326_3	F1	106	1.0	1.50e+005	 	 	  9.7	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
+03/26/2021 13:12:51	P.acuta_2393_20210326_3	F1	238	1.0	3.37e+005	 	 	 10.4	Putnam_Lab_Dinoflagellate_Assay	Dinoflagellate	Gray_Sierra
+
